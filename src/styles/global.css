@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0vw;
+}
+
+:root{
+
+    font-size: 1.2rem;
+    font-family: Roboto,sans-serif;
+}
+ html,body,#root{
+
+    width: 100vw;
+    height: 100vh;
+ }
