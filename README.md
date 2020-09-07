@@ -1,7 +1,7 @@
 Projeto Crud com React Js com Banco de Dados Mysql
 
 <b>Depenências utilizadas no Projeto:</b>
-<br>
+<br><br>
 <b>Navegação de Páginas:</b>
 <br>
 npm install --save history
