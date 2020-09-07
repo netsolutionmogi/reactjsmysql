@@ -1,14 +1,16 @@
 Projeto Crud com React Js com Banco de Dados Mysql
 
-Depenências utilizadas no Projeto:
+<b>Depenências utilizadas no Projeto:</b>
 <br>
-Navegação de Páginas:
+<b>Navegação de Páginas:</b>
 <br>
 npm install --save history
 <br>
-Navegação com Rotas: Router
+<b>Navegação com Rotas: Router</b>
 <br>
 npm install --save react-router-dom
+<br>
+<b>Front-end Framework Bootstrao 3.3.7</b>
 <br>
 For Bootstrap 3:
 <br>
