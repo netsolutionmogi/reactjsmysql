@@ -15,5 +15,10 @@ npm install --save react-router-dom
 For Bootstrap 3:
 <br>
 npm install bootstrap@3.3.7 jquery --save
+<br>
+Instalação do Cliente Http:
+<br>
+ npm install axios
+
 
 
