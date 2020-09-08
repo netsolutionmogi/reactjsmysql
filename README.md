@@ -16,7 +16,7 @@ For Bootstrap 3:
 <br>
 npm install bootstrap@3.3.7 jquery --save
 <br>
-Instalação do Cliente Http:
+<b>Instalação do Cliente Http:</b>
 <br>
  npm install axios
 
