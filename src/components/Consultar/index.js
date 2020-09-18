@@ -10,13 +10,13 @@ function Consultar() {
     const [clientes, setclientes] = useState([]);
     const history = useHistory();
 
+    async function Carregar() {
+        const response = await api.get('http://localhost/apireact/consultar.php');
+        setclientes(response.data);
+        console.log(response.data);
+    }
     useEffect(() => {
 
-        async function Carregar() {
-            const response = await api.get('http://localhost/apireact/consultar.php');
-            setclientes(response.data);
-            console.log(response.data);
-        }
         Carregar();
 
     }, []);
